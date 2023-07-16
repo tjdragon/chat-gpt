@@ -72,4 +72,6 @@ At the moment, we support staking for DOT, but we do not currently support staki
 Are you hiring anyone, I can give my CV to you?
 - Assistant:  
 As an AI language model, I'm not directly involved in the hiring process at MOEBIUS. However, you can visit our website to see if there are any open positions that match your skills and experience. You can also submit your CV through the website, and our HR team will review it if there are any relevant job openings. Good luck with your job search!
+
+
 The utilisation of randomness in our responses can offer a degree of flexibility, which can prove beneficial in the event that a returning customer visits our website. Additionally, GPT can be leveraged to generate concise and precise summaries of PDF documents published by an organisation, enabling us to provide accurate and succinct descriptions on our website. Furthermore, an advanced application of GPT involves crafting instructions that can be comprehended by natural language processing and subsequently converted into JSON format for execution.
